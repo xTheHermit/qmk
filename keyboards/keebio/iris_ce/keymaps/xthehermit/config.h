@@ -1,3 +1,5 @@
 #define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
-#define TAPPING_TERM 300
-#define CHORDAL_HOLD
+#define TAPPING_TERM 250
+#define PERMISSIVE_HOLD
+#define FLOW_TAP_TERM 150
+#define TAPPING_TOGGLE 3 // Making it easier for TT(3)
